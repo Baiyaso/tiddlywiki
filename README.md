@@ -1,2 +1,2 @@
 # tiddywiki
-My TiddyWiki on Github
+My TiddlyWiki on Github
